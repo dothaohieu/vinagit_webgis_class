@@ -10,35 +10,35 @@ Vinagit WebGIS class
 
 ### Demo
 
-> `t1.htm`
+> `t1.html`
 
 <img src="img/h1.png">
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/t1.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/t1.html
 
-> `t2.htm`
+> `t2.html`
 
 <img src="img/h2.png">
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/t2.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/t2.html
 
-> `t3.htm`
+> `t3.html`
 
 <img src="img/h3.png">
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/t3.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/t3.html
 
 > Calculator JS 1
 
 <img src="img/h4.png">
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/calc1.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/calc1.html
 
 > Calculator JS 2
 
 <img src="img/h5.png">
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/calc2.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_04/javascript/calc2.html
 
 
 

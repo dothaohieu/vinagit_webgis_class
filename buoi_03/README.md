@@ -14,15 +14,15 @@ Vinagit WebGIS class
 
 > Form `form.htm`
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_03/form.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/form.html
 
 > CSS `css.htm`
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_03/css.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/css.html
 
 > CSS `css2.htm`
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_03/css2.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/css2.html
 
 > Template `boostrap`
 

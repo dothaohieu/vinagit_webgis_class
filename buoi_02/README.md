@@ -18,15 +18,15 @@ https://vinagit.github.io/vinagit_webgis_class/buoi_02/CV.htm
 
 > HTML `html.htm`
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_02/html.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_02/html.html
 
 > HTML `html2.htm`
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_02/html2.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_02/html2.html
 
 > Form `form.htm`
 
-https://vinagit.github.io/vinagit_webgis_class/buoi_02/form.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_02/form.html
 
 ### Tools
 
