@@ -14,19 +14,19 @@ Vinagit WebGIS class
 
 > CV online `CV.htm`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_02/CV.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_02/CV.htm
 
 > HTML `html.htm`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_02/html.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_02/html.htm
 
 > HTML `html2.htm`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_02/html2.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_02/html2.htm
 
 > Form `form.htm`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_02/form.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_02/form.htm
 
 ### Tools
 

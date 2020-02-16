@@ -15,21 +15,21 @@ Vinagit WebGIS class
 
 > get info `betterwms.html`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_11/betterwms.html
+https://vinagit.github.io/vinagit_webgis_class/buoi_11/betterwms.html
 
 > highlight `betterwms_v2.html`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_11/betterwms_v2.html
+https://vinagit.github.io/vinagit_webgis_class/buoi_11/betterwms_v2.html
 
 > highlight final `geojson.html`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_11/geojson.html
+https://vinagit.github.io/vinagit_webgis_class/buoi_11/geojson.html
 
 <img src="img/h1.png">
 
 > Tìm kiếm `timkiem.html`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_11/timkiem/timkiem.html
+https://vinagit.github.io/vinagit_webgis_class/buoi_11/timkiem/timkiem.html
 
 <img src="img/h2.png">
 

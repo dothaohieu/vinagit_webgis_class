@@ -14,27 +14,27 @@ Vinagit WebGIS class
 
 > Form `form.htm`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_03/form.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/form.htm
 
 > CSS `css.htm`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_03/css.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/css.htm
 
 > CSS `css2.htm`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_03/css2.htm
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/css2.htm
 
 > Template `boostrap`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_03/boostrap/
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/boostrap/
 
 > `myweb`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_03/myweb/
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/myweb/
 
 > `myweb_v2`
 
-https://github.com/vinagit/vinagit_webgis_class/buoi_03/myweb_v2/
+https://vinagit.github.io/vinagit_webgis_class/buoi_03/myweb_v2/
 
 ### Tools
 
