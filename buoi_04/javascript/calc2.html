@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>calculator</title>
+	<link rel="stylesheet" type="text/css" href="./calculator_files/styleCal.css">
+	<script type="text/javascript">
+		function noichuoi(v){
+			var gtrihtai=document.getElementById('view').value;
+			document.getElementById('view').value=gtrihtai+v;
+		}
+		function calc(){
+			var tinh=document.getElementById('view').value;
+			document.getElementById('view').value=eval(tinh);
+		}
+		function C(){
+			document.getElementById('view').value=' ';
+		}
+	</script>
+</head>
+<body>
+	<h1 style="font-style: oblique; color: #c3d22c;">Calculator</h1>
+	<hr>
+	<div class="container">
+	<input type="text" name="view" id="view" value="">
+	<input type="button" name="C" class="btn" value="C" onclick="C();">
+	<br><div id="line1">
+		<input type="button" name="num7" class="btn" value="7" onclick="noichuoi(this.value);">
+		<input type="button" name="num8" class="btn" value="8" onclick="noichuoi(this.value);">
+		<input type="button" name="num9" class="btn" value="9" onclick="noichuoi(this.value);">
+		<input type="button" name="chia" class="btn" value="/" onclick="noichuoi(this.value);">
+		</div>
+	<br><div id="line2">
+		<input type="button" name="num6" class="btn" value="6" onclick="noichuoi(this.value);">
+		<input type="button" name="num5" class="btn" value="5" onclick="noichuoi(this.value);">
+		<input type="button" name="num4" class="btn" value="4" onclick="noichuoi(this.value);">
+		<input type="button" name="nhan" class="btn" value="*" onclick="noichuoi(this.value);">
+		</div>
+	<br><div id="line3">
+		<input type="button" name="num3" class="btn" value="3" onclick="noichuoi(this.value);">
+		<input type="button" name="num2" class="btn" value="2" onclick="noichuoi(this.value);">
+		<input type="button" name="num1" class="btn" value="1" onclick="noichuoi(this.value);">
+		<input type="button" name="tru" class="btn" value="-" onclick="noichuoi(this.value);">
+		</div>
+	<br><div id="line4">
+		<input type="button" name="num0" class="btn" value="0" onclick="noichuoi(this.value);">
+		<input type="button" name="cham" class="btn" value="." onclick="noichuoi(this.value);">
+		<input type="button" name="kq" class="btn" value="=" onclick="calc();">
+		<input type="button" name="cong" class="btn" value="+" onclick="noichuoi(this.value);">
+		</div>
+	</div>
+
+</body></html>

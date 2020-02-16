@@ -1,0 +1,57 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Calc</title>
+	<script>
+		function noichuoi(v){
+			var current_value=document.getElementById('view').value;
+			console.log(current_value);
+			document.getElementById('view').value=current_value+v;
+			console.log(current_value+v);
+		}
+		function calc(){
+			//alert('123');
+			var pheptinh=document.getElementById('view').value;
+			//alert(pheptinh);
+			//alert(eval(pheptinh));
+			document.getElementById('view').value=eval(pheptinh);
+		}
+	</script>
+	
+</head>
+<body bgcolor="white" link="blue" alink="purple" vlink="red" align="center">
+	<h1>Calculator</h1>
+	<form name="calculator">
+		
+		<input type="text" name="view" id="view" value="" size="27" style="height:70px;font-size:20px;background:black; color:red;"><table align="center" "="">
+			<tbody><tr>
+				
+			</tr>
+			<tr size="23" style="height:30px;font-size:12px;">
+				<td><input type="button" name="num1" id="num1" value="1" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="num2" id="num2" value="2" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="num3" id="num3" value="3" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="pheptru" id="pheptru" value="-" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+			</tr>
+			<tr>
+				<td><input type="button" name="num4" id="num4" value="4" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="num5" id="num5" value="5" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="num6" id="num6" value="6" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="phepcong" id="phepcong" value="+" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+			</tr>
+			<tr>
+				<td><input type="button" name="num7" id="num7" value="7" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="num8" id="num8" value="8" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="num9" id="num9" value="9" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="phepnhan" id="phepnha" value="*" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+			</tr>
+			<tr>
+				<td><input type="button" name="num0" id="num0" value="0" onclick="noichuoi(this.value)" style="width:75;height:25;"></td>
+				<td><input type="button" name="getkq" id="getkq" value="=" onclick="calc()" style="width:75;height:25;"></td>
+				<td><input type="reset" name="reset" id="reset" value="reset" onclick="document.calculator.ans.value=&#39;&#39;" style="width:75;height:25;"></td>
+				<td><input type="button" name="phepchia" id="phepchia" value="/" onclick="noichuoi(this.value)" style="width:75;height:25;"></td><td>
+			</td></tr>
+		</tbody></table>
+	</form>
+
+</body></html>
