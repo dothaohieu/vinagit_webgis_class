@@ -1,6 +1,8 @@
 # vinagit_class
 Vinagit class
 
+https://vinagit.github.io/vinagit_webgis_class/docs/
+
 ## Nội dung
 
 > Buổi 1
