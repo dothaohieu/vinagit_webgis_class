@@ -3,6 +3,10 @@ Vinagit class
 
 https://vinagit.github.io/vinagit_webgis_class/docs/
 
+> Lịch học
+
+https://vinagit.github.io/vinagit_webgis_class/docs/lichhoc.html
+
 ## Nội dung
 
 > Buổi 1
