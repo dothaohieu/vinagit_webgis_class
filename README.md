@@ -7,6 +7,10 @@ https://vinagit.github.io/vinagit_webgis_class/docs/
 
 https://vinagit.github.io/vinagit_webgis_class/docs/lichhoc.html
 
+> Chương trình học
+
+https://vinagit.github.io/vinagit_webgis_class/docs/chuongtrinh.html
+
 ## Nội dung
 
 > Buổi 1
