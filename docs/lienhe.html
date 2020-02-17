@@ -69,20 +69,7 @@
   
 <div class="container-fluid text-center">    
   <div class="row content">
-    <div class="col-sm-2 sidenav">
-      <p><a href="lichhoc.html">Lịch học</a></p>
-      <p><a href="ontap0.html">HTML cơ bản</a></p>
-      <p><a href="ontap1.html">Ôn tập HTML</a></p>
-      <p><a href="ontap2.html">Boostrap</a></p>
-      <p><a href="ontap3.html">Javascript</a></p>
-      <hr>
-      <p><a href="baitap1.html">Bài tập web tĩnh</a></p>
-      <hr>
-      <p><a href="video1.html">Video Giới thiệu HTML</a></p>
-      <p><a href="video2.html">Hosting - Domain - HTML Form</a></p>
-      <p><a href="video3.html">CSS</a></p>
-      <p><a href="video4.html">Bootstrap và Javascript phần 1</a></p>
-    </div>
+    <div class="col-sm-2 sidenav" id="leftmenu"></div>
     <div class="col-sm-8 text-left">
     <h1>Góp ý</h1>
     <hr>
@@ -103,7 +90,11 @@
 
 <footer class="container-fluid text-center">
   <p>Vinagit Class</p>
-</footer>
+</footer><script>
+$(document).ready(function(){
+  $("#leftmenu").load("leftmenu.html");
+});
+</script>
 
 </body>
 </html>
